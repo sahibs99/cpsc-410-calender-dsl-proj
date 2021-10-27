@@ -1,0 +1,67 @@
+Event: {
+	Name: UBC’s alumni’s meetup
+	Type: Party
+	Date: Sept 24
+	Start time: 12:00
+	End time: 13:00
+	Place: UBC
+	Color: Blue
+	Overlap: No
+	Priority: Important
+}
+Type: {
+    Name: Lecture
+    Reoccurring: 7
+    Color: Red
+    Priority: Important
+    Overlap: No
+    Place: Online
+}
+Type: {
+    Name: Workout
+    Reoccurring: 4
+    Color: Yellow
+    Overlap: No
+    Place: Gym
+}
+Event: {
+	Name: CPSC 410
+	Type: Lecture
+	Date: Sept 1
+	Start time: 11:00
+	End time: 12:30
+}
+Event: {
+	Name: CPSC 410
+	Type: Lecture
+	Date: Sept 3
+	Start time: 11:00
+	End time: 12:30
+}
+Event: {
+	Name: Workout
+	Type: Workout
+	Date: Sept 3
+	Start time: 07:30
+	End time: 08:30
+}
+Event: {
+    Name: Birthday
+    Date: Sept 15
+    Start time: 00:00
+    End time: 23:59
+    Color: Green
+    Overlap: Yes
+}
+
+Event: {
+    Name: Hockey
+    Date: Sept 19
+    Start time: 12:00
+    End time: 14:00
+    Color: Green
+    Overlap: No
+	Place: Gym
+}
+
+
